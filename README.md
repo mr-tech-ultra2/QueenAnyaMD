@@ -20,12 +20,12 @@ Project created by <a href="https://github.com/TURBOHYPER">Turbo</a> to make it 
 
 Queen Anya BOT Is a bot that l bought for private use. This bot is a bot made by combining several bots. 
 
-# 👨‍💻 Sponser & Supporter 👨‍💻
+# 👨‍💻 Owners And Supporter 👨‍💻
 
-[![ChamodKeshan](https://github.com/ChamodKeshan.png?size=120)](https://github.com/ChamodKeshan) |  
+[![BlackAmda](https://github.com/BlackAmda) |  
 ----|
-[ChamodKeshan](https://github.com/ChamodKeshan)  |
-Helper , Supporter , public module , Error fix|
+[Teenuh-X](https://github.com/ChamodKeshan)  |
+
 
 [![HYPER-MOD](https://github.com/HYPER-MODZ.png?size=100)](https://github.com/HYPER-MODZ) |
 ----|
