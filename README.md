@@ -20,4 +20,28 @@ Project created by <a href="https://github.com/TURBOHYPER">Turbo</a> to make it 
 
 Queen Anya BOT Is a bot that l bought for private use. This bot is a bot made by combining several bots. 
 
+# 👨‍💻 Sponser & Supporter 👨‍💻
+
+[![ChamodKeshan](https://github.com/ChamodKeshan.png?size=120)](https://github.com/ChamodKeshan) |  
+----|
+[ChamodKeshan](https://github.com/ChamodKeshan)  |
+Helper , Supporter , public module , Error fix|
+
+[![HYPER-MOD](https://github.com/HYPER-MODZ.png?size=100)](https://github.com/HYPER-MODZ) |
+----|
+[HYPER-MOD](https://github.com/HYPER-MODZ)  |
+Bot owner , Bug fixer , module fixer , New update|
+
+
+ <p align="center">
+   <a href="https://github.com/ChamodKeshan">
+       <img
+           src="https://readme-typing-svg.herokuapp.com?size=35&width=1500&lines=Byee+Byee...+Thank+You+For+You...+MADE+BY+Queen-Alexa..."
+           alt="Typing SVG"
+        />
+    </a>
+</p>
+
+
+
 
