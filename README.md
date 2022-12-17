@@ -22,12 +22,8 @@ Queen Anya BOT Is a bot that l bought for private use. This bot is a bot made by
 
 # 👨‍💻 Owners And Supporter 👨‍💻
 
-[![BlackAmda](https://github.com/BlackAmda) |  
-----|
-[Teenuh-X](https://github.com/ChamodKeshan)  |
 
-
-[![HYPER-MOD](https://github.com/HYPER-MODZ.png?size=100)](https://github.com/HYPER-MODZ) |
+[![BlackAmda](https://avatars.githubusercontent.com/u/83172207?v=4)](https://github.com/BlackAmda) |
 ----|
 [HYPER-MOD](https://github.com/HYPER-MODZ)  |
 Bot owner , Bug fixer , module fixer , New update|
