@@ -33,8 +33,6 @@ Base Creator And bot Coder
 [Teenuh-X](https://github.com/xneon2)  |
 Bot Plugins Creator
 
-[![Teenuh-X](https://avatars.githubusercontent.com/u/86682741?v=4)](https://github.com/xneon2) |
-
 
  <p align="center">
    <a href="https://github.com/ChamodKeshan">
