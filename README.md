@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F753EE&lines=Welcome+To+Toxic-Alexa_V3;This+Bot+Made+By+Turbo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F753EE&lines=Welcome+To+Queen-Anya_V1;This+Bot+Made+By+Turbo)](https://git.io/typing-svg)
 <div align="center">
-        <img src="https://telegra.ph/file/98a4cce3428c086bd7451.jpg" alt="GIF" width="250" height="250"/>
+        <img src="https://telegra.ph/file/d71f54d2a142c956f5cbf.jpg" alt="GIF" width="250" height="250"/>
 </p>
 
 <a href="#"><img title="Toxic-Alexa_V3" src="https://img.shields.io/badge/Toxic-Alexa_V3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
