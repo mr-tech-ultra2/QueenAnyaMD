@@ -1,0 +1,38 @@
+{
+    "name": "Queen Anya",
+    "description": "Queen Anya [Multi-device] - A Power Full Whatsapp User Bot",
+    "keywords": [
+        "Queen Anya",
+        "WhatsApp",
+        "Queen Anya",
+        "multi-device"
+    ],
+    "repository": "https://github.com/BlackAmda/QueenAmdi",
+    "logo": "https://telegra.ph/file/d71f54d2a142c956f5cbf.jpg",
+    "success_url": "https://dashboard.heroku.com/apps/",
+    "env": {
+        "HEROKU": {
+            "description": "Are you deploying the bot in heroku or not?",
+            "required": true,
+            "value": "YES"
+        },
+        "HEROKU_APP_NAME": {
+            "description": "Use the same App name as first.",
+            "required": true
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+    ],
+    "addons": [
+        {
+            "plan": "heroku-postgresql",
+            "options": {
+                "version": "13"
+            }
+        }
+    ],
+    "stack": "heroku-22"
+}

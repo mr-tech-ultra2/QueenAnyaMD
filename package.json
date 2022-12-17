@@ -1,0 +1,54 @@
+{
+    "name": "queen_anya-multi_device",
+    "version": "1.0.0",
+    "description": "Queen Anya MD Power Full Whatsapp User Bot.",
+    "main": "./assets/anyaModule.js",
+    "scripts": {
+        "package": "yarn install --network-concurrency 1",
+        "start": "pm2 start ./assets/anyaModule.js --name QueenAnyaMD",
+        "pm-run": "sudo yarn global add pm2 && pm2 start ./assets/anyaModule.js --name QueenAnyaMD && pm2 log QueenAnyaMD",
+        "pm-restart": "pm2 restart QueenAnyaMD"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BlackAmda/QueenAmdi.git"
+    },
+    "keywords": [
+        "whatsapp"
+    ],
+    "author": "MR Hex ULTRA Tech",
+    "developer": "MR Hex ULTRA Tech",
+    "license": "GPL-3.0-or-later",
+    "bugs": {
+        "url": "https://github.com/BlackAmda/QueenAmdi/issues"
+    },
+    "homepage": "https://github.com/BlackAmda/QueenAmdi#readme",
+    "dependencies": {
+        "@adiwajshing/baileys": "git+https://github.com/MR-ULTRA-Tech/Baileys-Queen-Anya-",
+        "@adiwajshing/keyed-db": "^0.2.4",
+        "@blackamda/song_video_dl": "^1.0.0",
+        "@blackamda/telegram-image-url": "^1.0.0",
+        "@hapi/boom": "^10.0.0",
+        "axios": "^0.27.2",
+        "dotenv": "^16.0.0",
+        "express": "^4.18.1",
+        "ffmpeg": "^0.0.4",
+        "fluent-ffmpeg": "^2.1.2",
+        "google-play-scraper": "^9.1.1",
+        "got": "^11.8.2",
+        "https": "1.0.0",
+        "link-preview-js": "^2.1.13",
+        "moment": "2.29.4",
+        "node-fetch": "2.6.7",
+        "path": "0.12.7",
+        "pg": "^8.7.3",
+        "qrcode": "^1.5.0",
+        "qrcode-terminal": "^0.12.0",
+        "queen_amdi_core": "^1.2.3",
+        "queen-amdi-wa-sticker": "^1.0.1",
+        "request": "^2.88.2",
+        "sharp": "^0.30.5",
+        "simple-git": "^3.10.0",
+        "translatte": "^3.0.1"
+    }
+}
