@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F753EE&lines=Welcome+To+Queen-Anya_V1;This+Bot+Made+By+MR Hex ULTRA Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F753EE&lines=Welcome+To+Queen-Anya_V1;This+Bot+Made+By+MR-Hex-ULTRA-Tech)](https://git.io/typing-svg)
 <div align="center">
         <img src="https://telegra.ph/file/d71f54d2a142c956f5cbf.jpg" alt="GIF" width="250" height="250"/>
 </p>
