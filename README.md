@@ -3,7 +3,7 @@
         <img src="https://telegra.ph/file/d71f54d2a142c956f5cbf.jpg" alt="GIF" width="250" height="250"/>
 </p>
 
-<a href="#"><img title="Toxic-Alexa_V3" src="https://img.shields.io/badge/Toxic-Alexa_V3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Queen-Anya-V1" src="https://img.shields.io/badge/Toxic-Alexa_V3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 </p>
@@ -32,14 +32,3 @@ Base Creator And bot Coder
 
 [Teenuh-X](https://github.com/xneon2)  |
 Bot Plugins Creator
-
-
-           src="https://readme-typing-svg.herokuapp.com?size=35&width=1500&lines=Byee+Byee...+Thank+You+For+You...+MADE+BY+Queen-Anya MD..."
-           alt="Typing SVG"
-        />
-    </a>
-</p>
-
-
-
-
