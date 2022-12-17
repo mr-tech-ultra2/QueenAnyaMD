@@ -34,9 +34,6 @@ Base Creator And bot Coder
 Bot Plugins Creator
 
 
- <p align="center">
-   <a href="https://github.com/ChamodKeshan">
-       <img
            src="https://readme-typing-svg.herokuapp.com?size=35&width=1500&lines=Byee+Byee...+Thank+You+For+You...+MADE+BY+Queen-Anya MD..."
            alt="Typing SVG"
         />
