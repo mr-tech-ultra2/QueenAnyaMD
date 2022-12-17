@@ -28,9 +28,6 @@ Queen Anya BOT Is a bot that l bought for private use. This bot is a bot made by
 [BlackAmda](https://github.com/BlackAmda)  |
 Base Creator And bot Coder
 
-[![BlackAmda](https://avatars.githubusercontent.com/u/83172207?v=4)](https://github.com/BlackAmda) |
-----|
-
 [![Teenuh-X](https://avatars.githubusercontent.com/u/86682741?v=4)](https://github.com/xneon2) |
 
 [Teenuh-X](https://github.com/xneon2)  |
