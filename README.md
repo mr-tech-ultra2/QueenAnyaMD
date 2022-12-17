@@ -25,14 +25,21 @@ Queen Anya BOT Is a bot that l bought for private use. This bot is a bot made by
 
 [![BlackAmda](https://avatars.githubusercontent.com/u/83172207?v=4)](https://github.com/BlackAmda) |
 ----|
-[HYPER-MOD](https://github.com/HYPER-MODZ)  |
-Bot owner , Bug fixer , module fixer , New update|
+[BlackAmda](https://github.com/BlackAmda)  |
+Base Creator And bot Coder
+
+[![BlackAmda](https://avatars.githubusercontent.com/u/83172207?v=4)](https://github.com/BlackAmda) |
+----|
+[Teenuh-X](https://github.com/xneon2)  |
+Bot Plugins Creator
+
+[![Teenuh-X](https://avatars.githubusercontent.com/u/86682741?v=4)](https://github.com/xneon2) |
 
 
  <p align="center">
    <a href="https://github.com/ChamodKeshan">
        <img
-           src="https://readme-typing-svg.herokuapp.com?size=35&width=1500&lines=Byee+Byee...+Thank+You+For+You...+MADE+BY+Queen-Alexa..."
+           src="https://readme-typing-svg.herokuapp.com?size=35&width=1500&lines=Byee+Byee...+Thank+You+For+You...+MADE+BY+Queen-Anya MD..."
            alt="Typing SVG"
         />
     </a>
