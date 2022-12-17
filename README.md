@@ -18,3 +18,6 @@ Project created by <a href="https://github.com/TURBOHYPER">Turbo</a> to make it 
 
 # ```Bot Info```
 
+Queen Anya BOT Is a bot that l bought for private use. This bot is a bot made by combining several bots. 
+
+
