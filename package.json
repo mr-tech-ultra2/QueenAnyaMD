@@ -22,7 +22,7 @@
     "bugs": {
         "url": "https://github.com/Hex-ULTRA-Tech-Ofc/QueenAnyaMD/issues"
     },
-    "homepage": "https://github.com/BlackAmda/QueenAmdi#readme",
+    "homepage": "https://github.com/Hex-ULTRA-Tech-Ofc/QueenAnyaMD#readme",
     "dependencies": {
         "@adiwajshing/baileys": "git+https://github.com/MR-ULTRA-Tech/Baileys-Queen-Anya-",
         "@adiwajshing/keyed-db": "^0.2.4",
