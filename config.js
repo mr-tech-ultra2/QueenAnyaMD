@@ -4,20 +4,16 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 //═══════[Required Variables]════════\\
 global.owner = process.env.OWNER_NUMBER.split(",")
-global.mongodb = process.env.MONGODB_URI || "Enter-MongoURI-HERE"
 global.port= process.env.PORT || 5000
-global.email = 'sam@secktor.live'
-global.github = 'https://github.com/SamPandey001/Secktor-Md'
+global.email = 'queen-anya-md@gmain.com'
+global.github = 'https://github.com/Hex-ULTRA-Tech-Ofc/QueenAnyaMD'
 global.location = 'Sultanpur IN'
-global.gurl = 'https://instagram.com/' // add your username
-global.sudo = process.env.SUDO || '919628516236'
-global.devs = '919628516236';
-global.website = 'https://github.com/SamPandey001/Secktor-Md' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
+global.sudo = process.env.SUDO || '94711449492'
+global.devs = '94711449492';
+global.website = 'https://github.com/Hex-ULTRA-Tech-Ofc/QueenAnyaMD' //wa.me/+94000000000000
 module.exports = {
-  botname: process.env.BOT_NAME || '𝐒𝐞𝐜𝐤𝐭𝐨𝐫 𝐁𝐨𝐭𝐭𝐨',
-  ownername:process.env.OWNER_NAME || 'SamPandey001',
-  sessionName: process.env.SESSION_ID || 'PUT-HERE',
+  botname: process.env.BOT_NAME || 'Qᴜᴇᴇɴ 𝙰𝚗𝚢𝚊 ᴍᴅ',
+  ownername:process.env.OWNER_NAME || 'ᴹᴿ ʜᴇx ᴜʟᴛʀᴀ ᴛᴇᴄʜ',
   author: process.env.PACK_INFO.split(";")[0] || 'author', 
   packname: process.env.PACK_INFO.split(";")[1] || 'Name',
   autoreaction: process.env.AUTO_REACTION || 'off',
@@ -28,15 +24,13 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ['.'],
   nsfw_detect_ai : process.env.NSFW_DETECTION_AI || 'false',
   pmpermit: process.env.PMPERMIT || "false",
-  mongodb_url: process.env.MONGODB_URI || "Enter-Mongo-URI-HERE",
   warncount : process.env.WARN_COUNT || 3,
   disablepm: process.env.DISABLE_PM || "flase",
   levelupmessage: process.env.LEVEL_UP_MESSAGE || 'false',
   antilink: process.env.ANTILINK_VALUES || 'chat.whatsapp.com',
   antilinkaction: process.env.ANTILINK_ACTION || 'remove',
-  BRANCH: 'main',
+  BRANCH: 'master',
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
-  LANG: process.env.THEME|| 'SECKTOR',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
 };
 
