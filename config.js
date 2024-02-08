@@ -3,19 +3,19 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════\\
-global.owner = process.env.OWNER_NUMBER.split(",")
+global.owner = process.env.+237047885159.split(",")
 global.port= process.env.PORT || 5000
 global.email = 'queen-anya-md@gmain.com'
 global.github = 'https://github.com/Hex-ULTRA-Tech-Ofc/QueenAnyaMD'
-global.location = 'Sultanpur IN'
+global.location = 'Nigeria'
 global.sudo = process.env.SUDO || '94711449492'
-global.devs = '94711449492';
+global.devs = '+2347047885159';
 global.website = 'https://github.com/Hex-ULTRA-Tech-Ofc/QueenAnyaMD' //wa.me/+94000000000000
 module.exports = {
-  botname: process.env.BOT_NAME || 'Qᴜᴇᴇɴ 𝙰𝚗𝚢𝚊 ᴍᴅ',
-  ownername:process.env.OWNER_NAME || 'ᴹᴿ ʜᴇx ᴜʟᴛʀᴀ ᴛᴇᴄʜ',
+  botname: process.env.BOT_NAME || 'D-SAM',
+  ownername:process.env.Name|| 'Ï Âm Ãdé Sam',
   author: process.env.PACK_INFO.split(";")[0] || 'author', 
-  packname: process.env.PACK_INFO.split(";")[1] || 'Name',
+  packname: process.env.PACK_INFO.split(";")[1] || 'Ãdé Sam',
   autoreaction: process.env.AUTO_REACTION || 'off',
   antibadword : process.env.ANTI_BAD_WORD || 'nobadwordokey',
   alwaysonline: process.env.ALWAYS_ONLINE || 'false',
